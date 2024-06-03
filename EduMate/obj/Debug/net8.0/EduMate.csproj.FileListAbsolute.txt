@@ -1,0 +1,9 @@
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.csproj.AssemblyReference.cache
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.AssemblyInfoInputs.cache
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.AssemblyInfo.cs
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.csproj.CoreCompileInputs.cache
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.RazorAssemblyInfo.cache
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.RazorAssemblyInfo.cs
+C:\Users\Stud\Desktop\Visual Studio Projects\EduMate\EduMate\EduMate\obj\Debug\net8.0\EduMate.sourcelink.json
