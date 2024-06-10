@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Hosting;
 using System.IO;
 using System.Threading.Tasks;
-using EduMate.Data;
 using EduMate.Models;
 
 namespace EduMate.Controllers
