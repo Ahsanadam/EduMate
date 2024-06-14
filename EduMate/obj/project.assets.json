@@ -4319,11 +4319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stud\\Desktop\\Visual Studio Projects\\EduMate\\EduMate\\EduMate\\EduMate.csproj",
+      "projectUniqueName": "C:\\Users\\Stud\\Desktop\\Visual Studio Projects\\EduMate\\EduMate\\EduMate.csproj",
       "projectName": "EduMate",
-      "projectPath": "C:\\Users\\Stud\\Desktop\\Visual Studio Projects\\EduMate\\EduMate\\EduMate\\EduMate.csproj",
+      "projectPath": "C:\\Users\\Stud\\Desktop\\Visual Studio Projects\\EduMate\\EduMate\\EduMate.csproj",
       "packagesPath": "C:\\Users\\Stud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stud\\Desktop\\Visual Studio Projects\\EduMate\\EduMate\\EduMate\\obj\\",
+      "outputPath": "C:\\Users\\Stud\\Desktop\\Visual Studio Projects\\EduMate\\EduMate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stud\\AppData\\Roaming\\NuGet\\NuGet.Config",
