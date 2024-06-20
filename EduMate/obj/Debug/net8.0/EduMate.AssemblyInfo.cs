@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduMate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b195d381fac451ca2f026a5c5f8c84e8c83210bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12a6f29002274ea2ffe1f9351a470e493579233")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduMate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduMate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
